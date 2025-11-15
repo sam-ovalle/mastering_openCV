@@ -55,3 +55,36 @@ Understanding the history of image formats and their use cases
     - Developed by Google under BSD license
     - Not widely adopted yet :(
 
+## Module Projects
+
+### M01.01: Reading, Displaying, Saving Images
+
+Exercises to read image formats into openCV, view matrix data struccture, display images in line, and save images
+
+The image Apollo-11-launch.jpg was read into openCV, displayed in jupyter notebooks, and saved to a png as Apollo-11-launch-edit.png
+
+![Alt text](Apollo-11-launch-edit.png "Image of Apollo 11 launch vehicle used in exercise")
+
+### M01.02: Color Images
+
+Exercises to modify channels of color images, convert to different color formats, and ensure appropriate use of channels per image format
+
+The image Emerald_Lakes_New_Zealand.jpg is read into openCV, converted to grayscale, and displayed with attribute data
+
+![Alt text](readme/01_02_exercise.png "Image of New Zealand lake used in exercise")
+
+### M01.03: Basic Image Manipulation
+
+Exercises to copy images, manipulate pixel values, crop, resize, and flip images
+
+The image New_Zealand_Boat.jpg is read into openCV, cropped, resized to double the size, and flipped
+
+![Alt text](readme/01_03_exercise.png "Image of New Zealand boat used in exercise")
+
+### M01.04: Annotating Images
+
+Exercises to draw lines, circles, rectangles, and add text to images
+
+The image Apollo-11-launch.jpgis read into openCV, text is added, and a rectangle is placed on the shuttle rocket
+
+![Alt text](readme/01_04_exercise.png "Image of annotated Apollo 11 image used in exercise")
