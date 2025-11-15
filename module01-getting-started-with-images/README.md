@@ -29,3 +29,29 @@ The data structure of a JPEG image
 The data structure of an openCV C++ implementation Matrix (Mat) class image
 
 ![Alt text](readme/module1-digital3.png "Image of openCV Mat class image data structure")
+
+### Image Formats
+
+Understanding the history of image formats and their use cases
+
+.gif
+
+    - Useful in repeating moving image but memory dense
+
+.png
+
+    - Lossless image compression (good for maintaining details)
+    - supports alpha channel
+
+.jpg / .jpeg
+
+    - Lossy image compression (leaves artefacts in image)
+    - no alpha channel
+
+.webm
+
+    - Lossless and Lossy image compression
+    - More memory efficient than PNG
+    - Developed by Google under BSD license
+    - Not widely adopted yet :(
+
