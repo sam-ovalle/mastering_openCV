@@ -69,3 +69,16 @@ The histograms of multiple channels of an image, or even the mask of an object i
 Histogram equalization can be used across multiple channels to improve contrast of an image. HSV equalization is best for color images
 
 ![Alt text](module03-histograms-and-color-segmentation/readme/03_01_exercise8.png "Image of improved color contrast due to equalizing HSV channel histograms instead")
+
+Color Segmentation across HSV values using cv2.inRange() can be used to isolate an object in an image into a mask, such as this New Zealand lake
+
+![Alt text](module03-histograms-and-color-segmentation/readme/03_02_exercise3.png "Image of color segmentation of New Zealand Lake into mask")
+
+An application of color segmentation to analyze deforestation over the years is explored
+
+![Alt text](module03-histograms-and-color-segmentation/readme/03_03_exercise6.png "Image of percentages of forest remaining across the year from binary mask analysis across HSV and BGR color spaces")
+
+NDVI is explored with GeoTIFF LandSAT 7 channel images in order to more accurately determine the loss of vegetation over time across the area
+
+![Alt text](module03-histograms-and-color-segmentation/readme/03_04_exercise2.png "Image of NDVI method formula from near infrared and red channels")
+![Alt text](module03-histograms-and-color-segmentation/readme/03_04_exercise3.png "Image of NDVI images and binary masks across the year, more accurately representing loss of vegetation in the area")
