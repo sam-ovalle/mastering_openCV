@@ -14,6 +14,12 @@ In order to keep an object in focus across a lense, the object must be projected
 
 ![Alt text](readme/module1-geometry2.png "Image of rays defining a focus length")
 
+|
+
+|
+
+|
+
 ### Digital Image Formation
 
 Understanding the formation of digital color images and formatting used in openCV
@@ -29,6 +35,12 @@ The data structure of a JPEG image
 The data structure of an openCV C++ implementation Matrix (Mat) class image
 
 ![Alt text](readme/module1-digital3.png "Image of openCV Mat class image data structure")
+
+|
+
+|
+
+|
 
 ### Image Formats
 
@@ -55,6 +67,12 @@ Understanding the history of image formats and their use cases
     - Developed by Google under BSD license
     - Not widely adopted yet :(
 
+|
+
+|
+
+|
+
 ## Module Projects
 
 ### M01.01: Reading, Displaying, Saving Images
@@ -65,6 +83,12 @@ The image Apollo-11-launch.jpg was read into openCV, displayed in jupyter notebo
 
 ![Alt text](Apollo-11-launch-edit.png "Image of Apollo 11 launch vehicle used in exercise")
 
+|
+
+|
+
+|
+
 ### M01.02: Color Images
 
 Exercises to modify channels of color images, convert to different color formats, and ensure appropriate use of channels per image format
@@ -73,6 +97,12 @@ The image Emerald_Lakes_New_Zealand.jpg is read into openCV, converted to graysc
 
 ![Alt text](readme/01_02_exercise.png "Image of New Zealand lake used in exercise")
 
+|
+
+|
+
+|
+
 ### M01.03: Basic Image Manipulation
 
 Exercises to copy images, manipulate pixel values, crop, resize, and flip images
@@ -80,6 +110,12 @@ Exercises to copy images, manipulate pixel values, crop, resize, and flip images
 The image New_Zealand_Boat.jpg is read into openCV, cropped, resized to double the size, and flipped
 
 ![Alt text](readme/01_03_exercise.png "Image of New Zealand boat used in exercise")
+
+|
+
+|
+
+|
 
 ### M01.04: Annotating Images
 

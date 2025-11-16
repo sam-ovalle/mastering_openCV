@@ -60,3 +60,12 @@ An e-signature transparent png was created from a handrawn signature imported as
 |
 
 ## Module 3: Histograms and Color Segmentation
+
+The histograms of multiple channels of an image, or even the mask of an object in an image, can be plotted
+
+![Alt text](module03-histograms-and-color-segmentation/readme/03_01_exercise3.png "Image of improved color contrast due to equalizing HSV channel histograms instead")
+![Alt text](module03-histograms-and-color-segmentation/readme/03_01_exercise4.png "Image of improved color contrast due to equalizing HSV channel histograms instead")
+
+Histogram equalization can be used across multiple channels to improve contrast of an image. HSV equalization is best for color images
+
+![Alt text](module03-histograms-and-color-segmentation/readme/03_01_exercise8.png "Image of improved color contrast due to equalizing HSV channel histograms instead")

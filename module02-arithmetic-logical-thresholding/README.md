@@ -10,6 +10,12 @@ The image Santorini.jpg was read into openCV and the contrast is modified using 
 
 ![Alt text](readme/02_01_exercise.png "Image of Santorini used in exercise, and modified contrasts using multiplication")
 
+|
+
+|
+
+|
+
 ### M02.02: Thresholding
 
 Exercises to extract a selective binary image from a grayscale image, either through global thresholding ranges or through an algorithm
@@ -17,6 +23,12 @@ Exercises to extract a selective binary image from a grayscale image, either thr
 The image Sheet_Music_Test-1.jpg was read into openCV and global thresholding is used to produce an inverse binary image of the sheet music where the notes have non zero values
 
 ![Alt text](readme/02_02_exercise.png "Image of Music Sheet and output binary image")
+
+|
+
+|
+
+|
 
 ### M02.03: Logical Operations
 
@@ -40,6 +52,12 @@ The second exercise similarly asks us to create an image from the masks of two i
 
 ![Alt text](readme/02_03_exercise5.png "Images for exercise 2 M02.03")
 
+|
+
+|
+
+|
+
 ### M02.04: Alpha Channel
 
 Exercises to familiarize with the PNG alpha channel and how it can be used to remove a background from a JPEG
@@ -51,6 +69,12 @@ In the exercise, the kangaroo sign JPEG is imported as grayscale, converted into
 ![Alt text](readme/02_04_exercise2.png "Images for exercise M02.04")
 
 ![Alt text](readme/02_04_exercise3.png "Images for exercise M02.04")
+
+|
+
+|
+
+|
 
 ### M02.05: APPLICATION: Watermarking an image
 
@@ -93,6 +117,12 @@ This is accomplished by using the cv2.addWeighted() function with the unedited R
 Using pixel assignment just like before in step 5 will yield a complete image with the transparent logo
 
 ![Alt text](readme/02_05_exercise8.png "Images for exercise M02.05")
+
+|
+
+|
+
+|
 
 ### M02.06: APPLICATION: Digital Signature
 
