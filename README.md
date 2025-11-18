@@ -98,3 +98,19 @@ An application of video processing (motion detection through using binary masks 
 Binary masks such as these could be thresholded to determine if motion is detected (if enough pixels are not zero, notable motion has occured -> trigger event)
 
 ![Alt text](module04-video-processing-and-analysis/readme/04_03_exercise.gif "Gif of binary masks for frames of video where motion is detected")
+
+|
+
+|
+
+|
+
+## Module 5: Contour Analysis
+
+Learning how to identify contours using openCV, and openCV functionality to obtain parameters like center of mass, bounding boxes / circles, area, and perimeter
+
+![Alt text](module05-contours/readme/05_01_exercise4.png "Image of the plotted center of mass of each contour calculated from the moments of inertia obtained using cv2 method")
+
+The previous motion detection application is extended to an intrusion detection application where the foreground binary mask is processed to obtain contours and the bounding box of the largest contour present
+
+![Alt text](module05-contours/readme/05_02_video1_result.gif "Gif of comparison of output between the foreground mask before and after erosion")

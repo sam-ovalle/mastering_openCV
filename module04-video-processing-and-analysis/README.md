@@ -10,6 +10,12 @@ The video race_car_slow_motion.mp4 is read in using cv2.VideoCapture, and played
 
 ![Alt text](readme/04_01_exercise.gif "Gif of read in video used in")
 
+|
+
+|
+
+|
+
 ### M04.02: Writing Videos
 
 Exercises to understand how to create .avi or .mp4 encoded videos with width / height and fps parameters, and write frames to them
@@ -17,6 +23,12 @@ Exercises to understand how to create .avi or .mp4 encoded videos with width / h
 The exercise had me write the frame index and fps as text on each frame of race_car.mp4. This gif below is sped up 5x
 
 ![Alt text](readme/04_02_exercise.gif "Gif of exercise 04_02")
+
+|
+
+|
+
+|
 
 ### M04.03: Motion Detection
 
