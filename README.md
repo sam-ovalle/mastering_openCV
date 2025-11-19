@@ -114,3 +114,17 @@ Learning how to identify contours using openCV, and openCV functionality to obta
 The previous motion detection application is extended to an intrusion detection application where the foreground binary mask is processed to obtain contours and the bounding box of the largest contour present
 
 ![Alt text](module05-contours/readme/05_02_video1_result.gif "Gif of comparison of output between the foreground mask before and after erosion")
+
+
+
+## Module 6: Playing Games with HCIs
+
+Learning how to use PyAutoGUI as a Human Computer Interface to turn a facial detector into a video game controller that emulates arrow key presses
+
+Here I am playing Pacman:
+
+![Alt text](module06-playing-games-using-hci/readme/06_02_pacman.gif "Gif of playing pacman by moving my face")
+
+Here I am playing Subway Surfers:
+
+![Alt text](module06-playing-games-using-hci/readme/06_02_subwaySurfers.gif "Gif of playing subway by moving my face")
