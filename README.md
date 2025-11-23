@@ -115,7 +115,11 @@ The previous motion detection application is extended to an intrusion detection 
 
 ![Alt text](module05-contours/readme/05_02_video1_result.gif "Gif of comparison of output between the foreground mask before and after erosion")
 
+|
 
+|
+
+|
 
 ## Module 6: Playing Games with HCIs
 
@@ -128,3 +132,18 @@ Here I am playing Pacman:
 Here I am playing Subway Surfers:
 
 ![Alt text](module06-playing-games-using-hci/readme/06_02_subwaySurfers.gif "Gif of playing subway by moving my face")
+
+|
+
+|
+
+|
+
+## Module 7: Streamlit
+
+Learning how to use Streamlit to create web apps without needing to use HTML, CSS, Javascript, or web hosting
+
+Here is a Streamlit WebUI created to take an image and return an annotated image with the detected faces above a certain confidence interval, determined by a slider:
+
+![Alt text](module07-streamlit/readme/07_02_exercise.png "Image of face detection web app comparing outputs at different confidence intervals from the slider UI element")
+
