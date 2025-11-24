@@ -147,3 +147,22 @@ Here is a Streamlit WebUI created to take an image and return an annotated image
 
 ![Alt text](module07-streamlit/readme/07_02_exercise.png "Image of face detection web app comparing outputs at different confidence intervals from the slider UI element")
 
+|
+
+|
+
+|
+
+## Module 8: Image Filtering
+
+Learning how to use convolution kernels across an image as filters
+
+Examples covered include blurring / sharpening images, detecting edges, or applying stylistic image filters
+
+Here is a Canny edge detection filter applied directly to my own camera feed frame by frame
+
+![Alt text](module08-image-filtering/readme/08_05_exercise.gif "Gif of output of script that reads camera input and outputs binary mask frames (edge detection from the Canny filter)")
+
+Here is a Streamlit webUI created to apply the different image filters on an input image
+
+![Alt text](module08-image-filtering/readme/08_06_exercise.gif "Gif of Streamlit webUI for image filters")
