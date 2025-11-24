@@ -166,3 +166,15 @@ Here is a Canny edge detection filter applied directly to my own camera feed fra
 Here is a Streamlit webUI created to apply the different image filters on an input image
 
 ![Alt text](module08-image-filtering/readme/08_06_exercise.gif "Gif of Streamlit webUI for image filters")
+
+|
+
+|
+
+|
+
+## Module 9: Image Analysis
+
+Learning how to use Hough Transforms in an image frame processing pipeline to identify lanes of a road
+
+![Alt text](module09-image-analysis/readme/09_02_video2.gif "Gif of lane detection mask overlayed onto road video")
